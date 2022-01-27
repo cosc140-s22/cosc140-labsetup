@@ -1,12 +1,13 @@
 # COSC140 lab 0
 
-## Lab feedback
 
- * How long did you spend on this lab?
+## What is one thing that has surprised you so far in Cardiff?
 
- * What did you think about it?  What was good?  What could be improved?
 
-## Grade and feedback
+## What are three things that you hope to get out of your study abroad experience this semester?
 
-Once you commit and submit your work to Github, I'll update this section with feedback and grading info.
+
+## Feedback
+
+Once you commit and push your work to Github, I'll update this section with feedback.
 

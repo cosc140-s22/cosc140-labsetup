@@ -1,11 +1,14 @@
 # COSC140 lab 0
 
+## Please answer these questions
 
-## What is one thing that has surprised you so far in Cardiff?
+### What is one thing that has surprised you so far in Cardiff?
 
+your response
 
-## What are three things that you hope to get out of your study abroad experience this semester?
+### What are three things that you hope to get out of your study abroad experience this semester?
 
+your response
 
 ## Feedback
 

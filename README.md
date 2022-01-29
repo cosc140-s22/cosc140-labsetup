@@ -1,4 +1,4 @@
-# COSC140 lab 0
+# COSC140 lab setup
 
 ## Please answer these questions
 
